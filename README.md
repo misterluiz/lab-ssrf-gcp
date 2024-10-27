@@ -1,4 +1,4 @@
-# Lab-SSRF-GCP
+# Lab-SSRF-GCP 🔄🖥️🌐 
 
 This repository contains Terraform code to set up a Server-Side Request Forgery (SSRF) vulnerability testing lab in Google Cloud Platform (GCP). This lab environment is intended for educational purposes, allowing users to safely learn and test SSRF vulnerabilities in a controlled setting.
 
