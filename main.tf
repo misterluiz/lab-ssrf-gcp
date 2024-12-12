@@ -9,7 +9,7 @@ terraform {
 }
 
 provider "google" {
-  project = "terraform-gcp-437716"
+  project = "Project-ID"
 }
 
 variable "ssh_user" {
